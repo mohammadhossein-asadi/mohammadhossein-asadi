@@ -2,6 +2,22 @@
 
 ###
 
+- 🔭 I’m currently working on **ReactJs**
+
+- 🌱 I’m currently learning **Next JS**
+
+- 👯 I’m looking to collaborate on **FrontEnd**
+
+- 🤝 I’m looking for help with **FrontEnd Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mohammadhossein-asadi](mohammadhossein-asadi)
+
+- 📫 How to reach me **mohammadhosseinasadi.p@gmail.com**
+
+- ⚡ Fun fact **Programming is like solving puzzles.**
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
