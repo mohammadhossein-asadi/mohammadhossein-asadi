@@ -130,10 +130,11 @@
     <a href="https://gist.github.com/mohammadhossein-asadi"><img
             src="https://profile-counter.glitch.me/{mohammadhossein-asadi/count.svg"
             alt="PrinceGoblinTech :: Visitor's Count" /></a>
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e"
+    style="max-width: 100%" />
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e"
-    style="max-width: 100%" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
