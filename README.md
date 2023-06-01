@@ -5,8 +5,8 @@
 
 <div style="display: inline-flex; align-items: center;">
     <img src="https://icon-icons.com/downloadimage.php?id=54132&root=564/PNG/512/&file=Steve_Jobs_icon-icons.com_54132.png"
-        width="40px" height="40px" alt="Steve_Jobs_icon-icons" style="margin-right: 5px;" />
-    <span>Steve Jobs</span>
+        width="40px" height="40px" alt="Steve_Jobs_icon-icons" />
+    <h3 style="margin-left: 5px; justify-content: flex-end;">Steve Jobs</h3>
 </div>
 <h4 align="center">
     "Everyone should learn computer programming because programming teaches you
