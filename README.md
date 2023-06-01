@@ -15,8 +15,6 @@ A passionate FrontEnd Developer
 
 - 👨‍💻 All of my projects are available at [mohammadhossein-asadi](https://github.com/mohammadhossein-asadi)
 
-- 📫 How to reach me **mohammadhosseinasadi.p@gmail.com**
-
 - ⚡ Fun fact **Programming is like solving puzzles.**
 
 ###
@@ -70,6 +68,7 @@ A passionate FrontEnd Developer
 ###
 
 <div align="center">
+  - 📫 How to reach me:
   <a href="mailto:mohammadhosseinasadi.p@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
