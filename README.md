@@ -26,87 +26,92 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" height="65" /> <br />
-        ReactJS
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" alt="icon" height="65" /> <br />
-        NextJS
-      </td      <td align="center">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" height="65" /> <br />
-        TypeScript
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" height="65" /> <br />
-        JavaScript
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" height="65" /> <br />
-        Redux
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" height="65" /> <br />
-        NodeJS
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=expressjs" alt="icon" height="65" /> <br />
-        ExpressJS
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" height="65" /> <br />
-        MongoDB
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" alt="icon" height="65" /> <br />
-        HTML
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=css" alt="icon" height="65" /> <br />
-        CSS
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" height="65" /> <br />
-        GraphQL
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" height="65" /> <br />
-        Sass
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MaterialUI-Dark.svg" alt="icon" height="65" /> <br />
-        MaterialUI
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" height="65" /> <br />
-        Bootstrap
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" height="65" /> <br />
-        TailwindCss
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="icon" height="65" /> <br />
-        Git
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" height="65" /> <br />
-        Github
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" height="65" /> <br />
-        Webpack
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" height="65" /> <br />
-        VsCode
-      </td>
-    </tr>
-  </table>
+  <table align="center">
+  <tr>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br />ReactJS
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg"
+        alt="icon" width="65" height="65" />
+      <br />NextJS
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br />Redux
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
+      <br />NodeJs
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=expressjs" alt="icon" width="65" height="65" />
+      <br />ExpressJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br />HTML
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
+      <br />CSS
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br />GraphQL
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass" />
+      <br />Sass
+    </td>
+    <td align="center" width="85">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MaterialUI-Dark.svg"
+        width="65" height="65" alt="MaterialUI" />
+      <br />MaterialUI
+    </td>
+   <tr>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
+      <br />Bootstrap
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
+      <br />TailwindCss
+    </td>
+    <td align="center" width="85">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="65" height="65" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br />Github
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br />Webpack
+    </td>
+    <td align="center" width="85">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
+      <br />VsCode
+    </td>
+  </tr>
+</table>
 </div>
 
 <p align="center">
