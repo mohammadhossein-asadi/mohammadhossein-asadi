@@ -3,10 +3,10 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 
-<div style="display: flex; align-items: center">
-    <h3 style="margin-right: 10px;">Steve Jobs :</h3>
+<div style="display: inline-flex; align-items: center;">
     <img src="https://icon-icons.com/downloadimage.php?id=54132&root=564/PNG/512/&file=Steve_Jobs_icon-icons.com_54132.png"
-        width="40px" height="40px" alt="Steve_Jobs_icon-icons" />
+        width="40px" height="40px" alt="Steve_Jobs_icon-icons" style="margin-right: 5px;" />
+    <span>Steve Jobs</span>
 </div>
 <h4 align="center">
     "Everyone should learn computer programming because programming teaches you
