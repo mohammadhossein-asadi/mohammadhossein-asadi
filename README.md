@@ -68,7 +68,7 @@ A passionate FrontEnd Developer
 ###
 
 <div align="center">
-  - 📫 How to reach me:
+ <h3>- 📫 How to reach me:</h3>
   <a href="mailto:mohammadhosseinasadi.p@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
