@@ -1,4 +1,5 @@
-<h1 align="left">⚡ Hi I'm Mohammadhossein</h1>
+<h1 font-size="30" align="center">⚡ Hi I'm Mohammadhossein</h1>
+<h3 font-size="20" align="center">A passionate FrontEnd Developer.</h3>
 
 ###
 
