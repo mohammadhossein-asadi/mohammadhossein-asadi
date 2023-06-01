@@ -25,61 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-                  <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>TailwindCss
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-        <td align="center" width="85"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-        <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
-      <br>Github
-    </td>
-        <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-            <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
- </tr>
-</table>
-</div>
+<div style="display: flex; align-items: center; justify-content: center;"> <table> <tr> <td align="center"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" height="65" /> <br />ReactJS </td> <td align="center"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg" alt="icon" height="65" /> <br />NextJS </td> <td align="center"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" height="65" /> <br />TypeScript </td> <td align="center"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" height="65" /> <br />JavaScript </td> <td align="center"> <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" height="65" /> <br />Redux </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" height="65" /> <br />NodeJS </td> <td align="center"> <img src="https://skillicons.dev/icons?i=expressjs" alt="icon" height="65" /> <br />ExpressJS </td> <td align="center"> <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" height="65" /> <br />MongoDB </td> <td align="center"> <img src="https://skillicons.dev/icons?i=html" alt="icon" height="65" /> <br />HTML </td> <td align="center"> <img src="https://skillicons.dev/icons?i=css" alt="icon" height="65" /> <br />CSS </td> <td align="center"> <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" height="65" /> <br />GraphQL </td> <td align="center"> <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" height="65" /> <br />Sass </td> <td align="center"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MaterialUI-Dark.svg" alt="icon" height="65" /> <br />MaterialUI </td> <td align="center"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" height="65" /> <br />Bootstrap </td> <td align="center"> <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" height="65" /> <br />TailwindCss </td> <td align="center"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="icon" height="65" /> <br />Git </td> <td align="center"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" height="65" /> <br />Github </td> <td align="center"> <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" height="65" /> <br />Webpack </td> <td align="center"> <img src="https://skillicons.dev/icons?i=vscode" alt="icon" height="65" /> <br />VsCode </td> </tr> </table> </div>
 
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
