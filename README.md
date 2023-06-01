@@ -57,8 +57,6 @@
       <img src="https://skillicons.dev/icons?i=expressjs" alt="icon" width="65" height="65" />
       <br />ExpressJS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="85">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
       <br />MongoDB
@@ -67,6 +65,8 @@
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br />HTML
     </td>
+  </tr>
+  <tr>
     <td align="center" width="85">
       <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br />CSS
@@ -84,7 +84,6 @@
         width="65" height="65" alt="MaterialUI" />
       <br />MaterialUI
     </td>
-   <tr>
     <td align="center" width="85">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
       <br />Bootstrap
