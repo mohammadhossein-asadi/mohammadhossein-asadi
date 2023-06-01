@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **FrontEnd Development**
 
-👨‍💻 All of my projects are available at [mohammadhossein-asadi](https://github.com/mohammadhossein-asadi)
+- 👨‍💻 All of my projects are available at [mohammadhossein-asadi](https://github.com/mohammadhossein-asadi)
 
 - 📫 How to reach me **mohammadhosseinasadi.p@gmail.com**
 
