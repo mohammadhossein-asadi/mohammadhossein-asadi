@@ -153,6 +153,6 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mohammadhossein_sd" height="30" width="40" /></a>
     <a href="https://t.me/mohammad_h_sd" target="blank"><img align="center"
-            src="https://download.services.iconscout.com/download?name=telegram&download=1&url=https%3A%2F%2Fd1b1fjiwh8olf2.cloudfront.net%2Ficon%2Ffree%2Fsvg%2F2284874.svg%3Ftoken%3DeyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkMWIxZmppd2g4b2xmMi5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTY4NTgzNjgwMCwicSI6bnVsbCwiaWF0IjoxNjg1NjUyMjgzfQ__.08f66da78b00c834312c829ef4380d9d36a106c065aa850a9d807c9a10fc50e3"
+            src="https://icons8.com/icon/25n4hOEoY7ss/telegram-app"
             alt="mohammad_h_sd" height="30" width="40" /></a>
 </p>
