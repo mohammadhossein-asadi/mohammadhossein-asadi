@@ -153,6 +153,6 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mohammadhossein_sd" height="30" width="40" /></a>
     <a href="https://t.me/mohammad_h_sd" target="blank"><img align="center"
-            src="https://icons8.com/icon/25n4hOEoY7ss/telegram-app"
+            src="https://icons8.com/icon/oWiuH0jFiU0R/telegram-app"
             alt="mohammad_h_sd" height="30" width="40" /></a>
 </p>
