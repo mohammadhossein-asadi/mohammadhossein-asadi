@@ -153,7 +153,6 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mohammadhossein_sd" height="30" width="40" /></a>
   <a href="https://t.me/mohammad_h_sd" target="_blank"><img align="center"
-            src="![image](https://github.com/mohammadhossein-asadi/mohammadhossein-asadi/assets/92786003/480bae47-317f-4471-9521-6f86f8d61fb8)
-"
+            src="https://www.pngkit.com/png/detail/897-8972864_telegram-telegram-logo-png.png"
             alt="mohammadhossein_sd" height="30" width="40" /></a>
 </p>
