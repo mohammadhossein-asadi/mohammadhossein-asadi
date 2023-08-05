@@ -152,10 +152,9 @@
     <a href="https://www.instagram.com/mohammadhossein_sd/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mohammadhossein_sd" height="30" width="40" /></a>
-  <a href="https://t.me/mohammad_h_sd" target="_blank">
-    <img align="center"
-            src="![image](https://github.com/mohammadhossein-asadi/mohammadhossein-asadi/assets/92786003/0c767ba0-642f-46b5-be37-6191e6a2faca)
-"
-            alt="mohammadhossein_sd" height="30" width="40" />
-  </a>
+
+<a href="https://t.me/mohammad_h_sd" target="_blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="mohammadhossein_sd" height="30" width="40" /></a>
+
 </p>
