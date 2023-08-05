@@ -143,16 +143,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/Mohammad_h_sd" target="blank"><img align="center"
+    <a href="https://twitter.com/Mohammad_h_sd" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="Mohammad_h_sd" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/mohammadhossein-asadi/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/mohammadhossein-asadi/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="mohammadhossein-asadi" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/mohammadhossein_sd/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/mohammadhossein_sd/" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mohammadhossein_sd" height="30" width="40" /></a>
-  <a href="https://t.me/mohammad_h_sd" target="blank"><img align="center"
-            src="https://icons8.com/icon/63306/telegram-app"
+  <a href="https://t.me/mohammad_h_sd" target="_blank"><img align="center"
+            src="![image](https://github.com/mohammadhossein-asadi/mohammadhossein-asadi/assets/92786003/480bae47-317f-4471-9521-6f86f8d61fb8)
+"
             alt="mohammadhossein_sd" height="30" width="40" /></a>
 </p>
