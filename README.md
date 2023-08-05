@@ -34,6 +34,14 @@
   <table align="center">
   <tr>
     <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="85">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br />JavaScript
+    </td>
+     <td align="center" width="85">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br />ReactJS
     </td>
@@ -41,14 +49,6 @@
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg"
         alt="icon" width="65" height="65" />
       <br />NextJS
-    </td>
-    <td align="center" width="85">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="85">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br />JavaScript
     </td>
     <td align="center" width="85">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
